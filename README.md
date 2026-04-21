@@ -19,7 +19,7 @@ The dashboard answers key HR questions such as:
 
 ## 🛠 Tools Used
 - Tableau (Data visualization)
-- CSV datasets
+- Excel (Data cleaning & EDA)
 
 ---
 
@@ -74,11 +74,11 @@ The dashboard answers key HR questions such as:
 ---
 
 ## 📸 Dashboard Preview
-  ![](HR_Summary.PNG)
+  ![](Screenshots/HR_Summary.PNG)
 
   *Human Resources Employees Summary.*
 
-  ![](HR_details.PNG)
+  ![](Screenshots/HR_details.PNG)
   
   *Human Resources Employees Details.*
 
